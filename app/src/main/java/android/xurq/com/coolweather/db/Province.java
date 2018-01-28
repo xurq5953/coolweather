@@ -1,5 +1,6 @@
 package android.xurq.com.coolweather.db;
 
+import org.json.JSONObject;
 import org.litepal.crud.DataSupport;
 
 /**
